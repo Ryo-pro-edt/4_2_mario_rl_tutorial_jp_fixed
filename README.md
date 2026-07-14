@@ -1,0 +1,2 @@
+# 4_2_mario_rl_tutorial_jp_fixed
+4_2_mario_rl_tutorial_jpが動作しなかったため修正をした
